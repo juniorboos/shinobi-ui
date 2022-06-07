@@ -5,6 +5,7 @@ node_modules
 
 # production
 packages/**/build
+storybook-static
 
 # misc
 .DS_Store
